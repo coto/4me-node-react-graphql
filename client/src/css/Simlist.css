@@ -1,0 +1,106 @@
+
+.Simlist {
+    padding-top:5rem;
+}
+
+.Simlist__content    {
+    max-width: 75rem;
+    margin: 0 auto 2.5rem auto;
+    padding: 2rem;
+    
+    background: #ffffff;
+    border-radius: 1rem;
+}
+.Simlist__content > * {
+    font-size: 20px !important;
+}
+.Simlist__description   {
+    margin: 1.5rem auto;
+}
+
+.Simlist__changeheadline    {
+    margin-bottom: 1rem;
+}
+
+.Simlist__changebox {
+    display: inline-flex;
+    border-radius: 10px;
+    padding: 0.5rem;
+    color: #ffffff;
+    font-weight: 800;
+    margin-right: 1rem;
+}
+
+.Simlist__changebox--new {
+    background: #97CC04;
+}
+
+.Simlist__changebox--change {
+    background: #FA9F42;
+}
+
+.Simlist__changebox--remove {
+    background: #FF6370;
+}
+
+.Simlist__changenumber {
+    border-radius:5px;
+    background: #fff;
+    color: #000000;
+    padding: 0 0.5rem;
+    margin-right:0.5rem;
+}
+
+.Simlist_tablehead  {
+    font-weight: 500;
+}
+
+.Simlist__actionbuttons {
+    display: flex;
+    justify-content: flex-end;
+    margin-top:1rem;
+}
+
+.Simlist__buttonspace   {
+    margin-left: 1rem !important;
+
+    background: #FF6370!important;
+    border-radius: 40px !important;
+    border-color: transparent !important;
+    font-weight: 700 !important;
+}
+
+.Simlist__buttoncancel   {
+    background: #DAD6D6 !important;
+    border-radius: 40px !important;
+    border-color: transparent !important;
+    font-weight: 700 !important;
+}
+
+.modal-content {
+    border-radius: 1rem !important;
+}
+
+.Simlist__modalsubmitbtn    {
+    padding: 0.5rem 1.5rem !important;
+    background: #FF6370!important;
+    border-radius: 40px !important;
+    border-color: transparent !important;
+    font-weight: 700 !important;
+    color:#fff;
+}
+
+.Simlist__modalcancelbtn    {
+    padding: 0.5rem 1.5rem !important;
+    background: #DAD6D6 !important;
+    border-radius: 40px !important;
+    border-color: transparent !important;
+    font-weight: 700 !important;
+    color:#fff;
+}
+
+#column-Simkartennummer, #column-PUK, #column-Tarif, #column-Land_VW_Nummer, #column-Mark, #column-External_Link
+{
+    font-size: 15px;
+}
+

@@ -1,0 +1,27 @@
+{
+    "mailimport":false,
+    "imapconfiguration":{
+        "imap": {
+            "user":  "milanb2020milan@gmail.com",
+            "password": "19981017123!a",
+            "host": "imap.gmail.com",
+            "port": 993,
+            "tls": true,
+            "authTimeout": 100000,
+            "tlsOptions": { "rejectUnauthorized": false}
+        }
+    },
+    
+    "endpoint": "https://graphql.4me-demo.com",
+    "token": "Bearer apademo02-vURxf090i4HvpPqRsq5VybS3YvngZOG1Zo1UQHq8j5Ip8wScrQP0PVSSaEY3mIeLitESOsdf51DlnV38bSSeIcy1Zcl8UVtTvmuwoYn2Ba2SyHnx",
+    "X-4me-Account": "wdc",
+    "serviceProvider": {
+        "id": "YXBhZGVtbzAyLjIxMDcxNTEzMzAzNUA0bWUtZGVtby5jb20vT3JnYW5pemF0aW9uLzUy",
+        "name": "Widget Data Center, External IT"
+    },
+    "siteName":"APA-Laimgrubengasse",
+    "serviceName": "Desktop Services - Arbeitsplatz",
+    "teamName": "Windows Server & Workplace",
+    "serviceInstanceName": "PC/Laptop/mobiles Gerät - APA - standard",
+    "productCategoryName": "Custom Sim Cards"
+}
